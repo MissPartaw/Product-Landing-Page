@@ -74,6 +74,10 @@ section {
   margin: 10px 0;
 }
 
+footer {
+  padding-top: 1.5cm;
+}
+
 @media (max-width: 600px) {
   #nav-bar {
       flex-direction: column;
