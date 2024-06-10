@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../technical-documentation-page/.github"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Product-Landing-Page"
+	}
+}
